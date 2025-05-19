@@ -9797,7 +9797,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -10050,7 +10051,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -10058,7 +10060,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW6TSGa2nJ2qY="
 							},
-							"name": "Role4"
+							"name": "Role4",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -10261,7 +10264,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW6TSGa2nJ2qY="
 							},
-							"name": "Role8"
+							"name": "Role8",
+							"type": ""
 						}
 					]
 				},
@@ -13986,7 +13990,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -16540,7 +16545,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -19345,14 +19351,14 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 712.78369140625,
+													"left": 713.504150390625,
 													"top": 154.5,
-													"width": 100.4326171875,
+													"width": 98.99169921875,
 													"height": 13,
 													"autoResize": true,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
-													"text": "4 : AddBike(Bike)"
+													"text": "4 : addBike(Bike)"
 												},
 												{
 													"_type": "NodeLabelView",
@@ -20479,7 +20485,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGW6ZcKveqFtXw="
 									},
-									"name": "AddBike(Bike)",
+									"name": "addBike",
 									"source": {
 										"$ref": "AAAAAAGW6ZnfKPl6Sdk="
 									},
@@ -20488,7 +20494,8 @@
 									},
 									"connector": {
 										"$ref": "AAAAAAGW6Zr+0xE8dgU="
-									}
+									},
+									"arguments": "Bike"
 								},
 								{
 									"_type": "UMLMessage",
@@ -20751,7 +20758,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -20934,7 +20942,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						}
 					]
 				},
@@ -26563,7 +26572,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -27457,14 +27467,14 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 168.23095703125,
+													"left": 154.50732421875,
 													"top": 127.5,
-													"width": 110.5380859375,
+													"width": 137.9853515625,
 													"height": 13,
 													"autoResize": true,
 													"alpha": 0.48447771211737295,
 													"distance": 21.470910553583888,
-													"text": "1 : viewRentalList()"
+													"text": "1 : viewRentalList(User)"
 												},
 												{
 													"_type": "NodeLabelView",
@@ -29912,7 +29922,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGW6a8M/c+jJXk="
 									},
-									"name": "viewRentalList()",
+									"name": "viewRentalList",
 									"source": {
 										"$ref": "AAAAAAGW6a+l/NCnm4U="
 									},
@@ -29921,7 +29931,8 @@
 									},
 									"connector": {
 										"$ref": "AAAAAAGW6bKwZfk7kfk="
-									}
+									},
+									"arguments": "User"
 								},
 								{
 									"_type": "UMLMessage",
@@ -30191,7 +30202,8 @@
 										}
 									}
 								}
-							]
+							],
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
