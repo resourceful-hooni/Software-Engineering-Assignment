@@ -1,0 +1,13 @@
+[KIMJIHOON] Tue May 20 05:31:39 2025 +0900 [chore] AnalysisClassDiagram 작성 88185ea
+[KIMJIHOON] Tue May 20 05:30:43 2025 +0900 [chore] CommunicationDiagram 수정 575462c
+[KIMJIHOON] Tue May 20 03:36:23 2025 +0900 [chore] CommunicationDiagram 작성 41e46f9
+[KIMJIHOON] Tue May 20 00:18:13 2025 +0900 [docs] use_case_descriptions 수정 0a22fbe
+[KIMJIHOON] Tue May 20 00:17:04 2025 +0900 [chore] use_case_descriptions 작성 7cc6667
+[KIMJIHOON] Mon May 19 23:30:31 2025 +0900 [docs] requirement_list 수정 f1b52fd
+[KIMJIHOON] Mon May 19 23:23:04 2025 +0900 [chore] use_case_descriptions 생성 b140e15
+[KIMJIHOON] Mon May 19 23:21:11 2025 +0900 [chore] requirement_list 이동 f930db7
+[KIMJIHOON] Mon May 19 23:20:52 2025 +0900 [chore] use_case_diagram 수정 d77e933
+[KIMJIHOON] Mon May 19 23:15:55 2025 +0900 [chore] use_case_diagram 생성 1e9b2c3
+[KIMJIHOON] Mon May 19 22:52:59 2025 +0900 [docs] requirement_list 수정 32b4dae
+[KIMJIHOON] Mon May 19 22:31:49 2025 +0900 [docs] requirement_list 수정 bb9b9b3
+[KIMJIHOON] Mon May 19 22:22:25 2025 +0900 [docs] requirement_list 생성 715ec0b
